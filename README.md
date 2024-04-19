@@ -20,8 +20,8 @@ Projetos desenvolvidos para a disciplina Arquitetura de Aplicações Web, para a
 
 Java
 
-# Amostra CRUD
-![](https://github.com/Day-Ketelin/Arquitetura_App_Web/blob/358f753d6ac0fb91f33e8c6e19acf10cda72947f/ClimaRestAPI/image.png)
+# Amostra CRUD - *ClimaRestAPI*
+![](https://github.com/Day-Ketelin/Arquitetura_App_Web/blob/main/ClimaRestAPI/ClimaRestAPI.gif)
 
 #
 
