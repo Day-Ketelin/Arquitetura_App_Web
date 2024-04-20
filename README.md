@@ -25,6 +25,12 @@ Java
 
 #
 
+# Amostra CRUD - *FipeRestAPI*
+![](https://github.com/Day-Ketelin/Arquitetura_App_Web/blob/main/FipeRestAPI/FipeRestAPI_GIF.gif)
+
+#
+
+#
 ⚠️🛠️🛠️🛠️⭐⭐⭐🛠️🛠️🛠️⚠️
 
 
